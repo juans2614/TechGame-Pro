@@ -108,18 +108,17 @@ nav.bg-gym ul li.registro a{
 }
 
 #hero .cont-foto::before{
-    width: 155%;
+    width: 126%;
     height: 97%;
     content: "";
     position: absolute;
     top: 6px;
-    left: -146px;
+    left: -39px;
     background: var(--primary-color);
     transition: .4s;
     border: transparent;
-    z-index: 1;
-}    
-
+    z-index: 1; 
+}
 #hero .cont-info{
     padding-left: 60px;
 
